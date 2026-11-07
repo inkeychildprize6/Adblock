@@ -209,4 +209,4 @@ This repository serves as the official landing page for AdBlock. The software is
 **Get the most recent version of AdBlock today!**
 
 ---
-**Last updated:** 2026-11-07 18:25:43 UTC
+**Last updated:** 2026-11-07 22:26:45 UTC
